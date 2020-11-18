@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit_api</string>
+    <string name="title_home">Home</string>
+    <string name="title_Country">Country</string>
+</resources>
